@@ -4,7 +4,6 @@ public class Viagem {
 
     private String destino;
     private String piloto;
-    private String compania;
 
     private Aviao aviaoUtilizado;
     private Passageiro viajante;
